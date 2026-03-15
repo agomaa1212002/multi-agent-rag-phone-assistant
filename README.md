@@ -257,7 +257,7 @@ Tool-augmented responses reliably perform structured filtering and ranking.
 # Project Structure
 
 ```
-LLM_PROJECTR
+multi-agent-rag-phone-assistant
 │
 ├── data
 │   ├── phones_data.json
@@ -324,6 +324,6 @@ streamlit run app.py
 
 # Conclusion
 
-LLM_PROJECTR demonstrates a robust architecture for domain-specific AI assistants. By combining RAG, deterministic tools, LoRA fine-tuning, and multi-agent orchestration, the system achieves strong factual grounding and safety.
+multi-agent-rag-phone-assistant demonstrates a robust architecture for domain-specific AI assistants. By combining RAG, deterministic tools, LoRA fine-tuning, and multi-agent orchestration, the system achieves strong factual grounding and safety.
 
 The project highlights how modern AI systems can move beyond simple prompting toward structured, reliable, and production-ready architectures.
