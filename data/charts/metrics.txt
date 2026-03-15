@@ -1,0 +1,6 @@
+Total questions: 100
+Correct: 27
+Partially Correct: 24
+Wrong: 49
+Strict Accuracy (Correct/Total): 0.270
+Soft Accuracy ((Correct+0.5*Partial)/Total): 0.390
